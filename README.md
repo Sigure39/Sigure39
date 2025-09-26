@@ -1,7 +1,11 @@
-- こんにちは👋@Sigure39 です。
-- 興味があるのは... スマートフォンとJavaScript
-- 勉強中です。 JavaScriptとPython
-- 📫連絡方法 ... Please contact us by DM on Twitter!　account：@Shigure_san39
+## 偉大なる自己紹介？
+
+- Hello!I'm @Sigure39!
+- 📫contact ... Please contact us by DM on Twitter!　account：@Shigure_san39
+
+## infomation
+
+- Not in particular
 
 <!---
 Sigure39/Sigure39 は✨ 特別な✨ リポジトリです。なぜなら `README.md` (このファイル) が GitHub のプロファイルに表示されるからです。
