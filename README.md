@@ -37,7 +37,7 @@ Nice to meet you.
 
 ## infomation
 
-- PWA化したWebアプリの通知実装をしていますが、超大変です。
+- 特になし
 
 <!---
 Sigure39/Sigure39 は✨ 特別な✨ リポジトリです。なぜなら `README.md` (このファイル) が GitHub のプロファイルに表示されるからです。
