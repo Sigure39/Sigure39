@@ -1,4 +1,4 @@
-## 時雨煮って誰やねん
+## Shigureniってだれ？
 
 Japanese
 
